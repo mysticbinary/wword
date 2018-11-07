@@ -27,7 +27,7 @@ Python 2.X
 # 运行效果图
 
 当输入正确的单词时：
-![avatar](img/wword right.png)
+![avatar](img/wwordright.png)
 
 当输入错误的单词时：
 ![avatar](img/wworderroe.png)
