@@ -1,3 +1,0 @@
-老虎,tiger
-鲨鱼,shark
-鱼,fish

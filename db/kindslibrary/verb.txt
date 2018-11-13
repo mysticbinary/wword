@@ -1,0 +1,326 @@
+花费\值-原型@cost
+花费\值-过去式@cost
+花费\值-过去分词@cost
+切\割-原型@cut
+切\割-过去式@cut
+切\割-过去分词@cut
+撞\击-原型@hit
+撞\击-过去式@hit
+撞\击-过去分词@hit
+使…伤痛-原型@hurt
+使…伤痛-过去式@hurt
+使…伤痛-过去分词@hurt
+让-原型@let
+让-过去式@let
+让-过去分词@let
+放-原型@put
+放-过去式@put
+放-过去分词@put
+读-原型@read
+读-过去式@read
+读-过去分词@read
+设置\放置\安置\集合-原型@set
+设置\放置\安置\集合-过去式@set
+设置\放置\安置\集合-过去分词@set
+关闭-原型@shut
+关闭-过去式@shut
+关闭-过去分词@shut
+传播\散布-原型@spread
+传播\散布-过去式@spread
+传播\散布-过去分词@spread
+打败-原型@beat
+打败-过去式@beat
+打败-过去分词@beaten
+成为-原型@become
+成为-过去式@became
+成为-过去分词@become
+来-原型@come
+来-过去式@came
+来-过去分词@come
+跑-原型@run
+跑-过去式@ran 
+跑-过去分词@run
+超越-原型@overcome
+超越-过去式@overcame
+超越-过去分词@overcome
+捉\抓-原型@catch
+捉\抓-过去式@caught
+捉\抓-过去分词@caught
+教-原型@teach
+教-过去式@taught
+教-过去分词@taught
+带来-原型@bring
+带来-过去式@brought
+带来-过去分词@brought
+买-原型@buy
+买-过去式@bought
+买-过去分词@bought
+打架-verb@fight
+打架-past tense@fought
+打架-past participle@fought
+思考-原型@think
+思考-过去式@thought
+思考-过去分词@thought
+加速-原型@speed
+加速-过去式@sped
+加速-过去分词@sped
+加速-过去式\过去分词(第二种)@speeded
+射击-原型@shoot
+射击-过去式@shot
+射击-过去分词@shot
+喂养先\饲养-原型@feed
+喂养先\饲养-过去式@fed
+喂养先\饲养-过去分词@fed
+遇见-verb@meet
+遇见-past tense@met
+遇见-past participle@met
+带路\领路-verb@lead
+带路\领路-past tense@led
+带路\领路-past participle@led
+坐-verb@sit
+坐-past tense@sat
+坐-past participle@sat
+临时代人照顾婴孩-原型@babysit
+临时代人照顾婴孩-过去式@babysat
+临时代人照顾婴孩-过去分词@babysat
+吐痰-verb@spit
+吐痰-past tense@spat
+吐痰-past participle@spat
+挖-verb@dig
+挖-past tense@dug
+挖-past participle@dug
+悬挂-verb@hang
+悬挂-past tense@hung
+悬挂-past participle@hung
+粘贴\将……刺入-verb@stick
+粘贴\将……刺入-past tense@stuck
+粘贴\将……刺入-past participle@stuck
+感觉\触摸-verb@feel
+感觉\触摸-past tense@felt
+感觉\触摸-past participle@felt
+保存\保养-verb@keep
+保存\保养-past tense@kept
+保存\保养-past participle@kept
+睡-verb@sleep
+睡-past tense@slept
+睡-past participle@slept
+睡过头-verb@oversleep
+睡过头-past tense@overslept
+睡过头-past participle@overslept
+扫-verb@sweep
+扫-past tense@swept
+扫-past participle@swept
+造-verb@build
+造-past tense@built
+造-past participle@built
+借-verb@lend
+借-past tense@lent
+借-past participle@lent
+邮寄\发送-verb@send
+邮寄\发送-past tense@sent
+邮寄\发送-past participle@sent
+花费-verb@spend
+花费-past tense@spent
+花费-past participle@spent
+丢失-verb@lose
+丢失-past tense@lost
+丢失-past participle@lost
+嗅-verb@smell
+嗅-past tense@smelt
+嗅-past participle@smelt
+拼写-verb@spell
+拼写-past tense@spelt
+拼写-past participle@spelt
+燃烧\烧伤\烧痕-verb@burn
+燃烧\烧伤\烧痕-past tense@burnt
+燃烧\烧伤\烧痕-past participle@burnt
+做梦-verb@dream
+做梦-past tense@dreamt
+做梦-past participle@dreamt
+学习-verb@learn
+学习-past tense@learnt
+学习-past participle@learnt@
+对付-verb@deal
+对付-past tense@dealt
+对付-past participle@dealt
+意思是-verb@mean
+意思是-past tense@meant
+意思是-past participle@meant
+点燃-verb@light
+点燃-(第1种)过去式\过去分词@lighted
+点燃-(第2种)过去式\过去分词@lit
+听见-verb@hear
+听见-past tense@heard
+听见-past participle@heard
+做\制造-verb@make
+做\制造-past tense@made
+做\制造-past participle@made
+放\搁-verb@lay
+放\搁-past tense@laid
+放\搁-past participle@laid@
+付报酬-verb@pay
+付报酬-past tense@paid
+付报酬-past participle@paid@
+说\讲-verb@say
+说\讲-past tense@said
+说\讲-past participle@said
+照耀-verb@shine
+照耀-past tense@shone
+照耀-past participle@shone
+赢-verb@win
+赢-past tense@won
+赢-past participle@won@
+发现-verb@find
+发现-past tense@found
+发现-past participle@found
+站立\忍受\坐落-verb@stand
+站立\忍受\坐落-past tense@stood
+站立\忍受\坐落-past participle@stood
+理解-verb@understand
+理解-past tense@understood
+理解-past participle@understood
+卖-verb@sell
+卖-past tense@sold
+卖-past participle@sold
+告诉-verb@tell
+告诉-past tense@told
+告诉-past participle@told
+成为\得到\到达-verb@get
+成为\得到\到达-past tense@got
+成为\得到\到达-past participle@got
+握\抓住-verb@hold
+握\抓住-past tense@held
+握\抓住-past participle@held
+有\拿\具有\取得-verb@have
+有\拿\具有\取得-past tense@had
+有\拿\具有\取得-past participle@had
+离开\遗留\剩下-verb@leave
+离开\遗留\剩下-past tense@left
+离开\遗留\剩下-past participle@left
+开始\着手-verb@begin
+开始\着手-past tense@began
+开始\着手-past participle@begun
+喝\饮-verb@drink
+喝\饮-past tense@drank
+喝\饮-past participle@drunk
+响铃\打电话-verb@ring
+响铃\打电话-past tense@rang
+响铃\打电话-past participle@rung
+唱歌-verb@sing
+唱歌-past tense@sang
+唱歌-past participle@sung
+下沉-verb@sink
+下沉-past tense@sank
+下沉-past participle@sunk
+游泳-verb@swim
+游泳-past tense@swam
+游泳-past participle@swum
+刮风-verb@blow
+刮风-past tense@blew
+刮风-past participle@blown
+成长\种植-verb@grow
+成长\种植-past tense@grew
+成长\种植-past participle@grown
+知道-verb@know
+知道-past tense@knew
+知道-past participle@known
+投-verb@throw
+投-past tense@threw
+投-past participle@thrown
+绘画-verb@draw
+绘画-past tense@drew
+绘画-past participle@drawn
+飞-verb@fly
+飞-past tense@flew
+飞-past participle@flown
+生育-verb@bear
+生育-past tense@bore
+生育-past participle@born
+穿-verb@wear
+穿-past tense@wore
+穿-past participle@worn
+打破-verb@break
+打破-past tense@broke
+打破-past participle@broken
+选择-verb@choose
+选择-past tense@chose
+选择-past participle@chosen
+结冰-verb@freeze
+结冰-past tense@froze
+结冰-past participle@frozen
+说-verb@speak
+说-past tense@spoke
+说-past participle@spoken
+忘记-verb@forget
+忘记-past tense@forgot
+忘记-past participle@forgotten@
+偷盗-verb@steal
+偷盗-past tense@stole
+偷盗-past participle@stolen@
+醒来-verb@wake
+醒来-past tense@woke
+醒来-past participle@woken
+升起\出现-verb@rise
+升起\出现-past tense@rose
+升起\出现-past participle@risen
+驾驶\驱赶-verb@drive
+驾驶\驱赶-past tense@drove
+驾驶\驱赶-past participle@driven
+骑-verb@ride
+骑-past tense@rode
+骑-past participle@ridden
+写-verb@write
+写-past tense@wrote
+写-past participle@written
+躺\平放\位于\撒谎-verb@lie
+躺\平放\位于\撒谎-past tense@lay
+躺\平放\位于\撒谎-past participle@lain
+撒谎-past sence@lied
+撒谎-past participle@lied
+放置\产卵\下蛋-verb@lay
+放置\产卵\下蛋-past tense@laid
+放置\产卵\下蛋-past participle@laid
+是-verb@be
+是-past tense@was\were
+是-past participle@been
+给-verb@give
+给-past tense@gave
+给-past participle@given
+吃-verb@eat
+吃-past tense@ate
+吃-past participle@eaten
+看见-verb@see
+看见-past tense@saw
+看见-past participle@seen
+落下-verb@fall
+落下-past tense@fell
+落下-past participle@fallen
+隐藏-verb@hide
+隐藏-past tense@hid
+隐藏-past participle@hidden
+弄错-verb@mistake
+弄错-past tense@mistook
+弄错-past participle@mistaken
+摇动-verb@shake
+摇动-past tence@shook
+摇动-past participle@shaken
+拿-verb@take
+拿-past tense@took
+拿-past participle@taken
+做\干-verb@do
+做\干-past tense@did
+做\干-past participle@done
+去\到达-verb@go
+去\到达-past tense@went
+去\到达-past participle@gone
+显示\说明\展出-原型@show
+显示\说明\展出-过去式@showed
+显示\说明\展出-过去分词@shown
+能\可能-原型(情态动词)@can
+能\可能-过去式(情态动词)@could
+可以\可能-原型(情态动词)@may
+可以\可能-过去式(情态动词)@might
+将\会-原型(情态动词)@shall
+将\会-过去式(情态动词)should
+将\愿意-原型(情态动词)@will
+将\愿意-过去式(情态动词)@would

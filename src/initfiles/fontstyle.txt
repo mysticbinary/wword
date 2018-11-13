@@ -1,0 +1,4 @@
+toilet -f mono12 -F crop
+toilet -f mono12 -F border
+toilet -f mono12 -F metal
+toilet -f mono12 -F gay
